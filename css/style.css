@@ -243,6 +243,7 @@ header .bars {
 .slider .controls i {
   position: absolute;
   top: 50%;
+  transform: translateY(-50%);
   background: var(--maincolor);
   color: #fff;
   width: 40px;
